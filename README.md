@@ -118,10 +118,9 @@ ARRESTS
 
 DETAINERS
 - Immigration detainers are requests from ICE to law enforcement agencies and correctional facilities to hand over an individual
-- Not every facility honors ICE detainers
-- Some Minnesota county jails do not honor ICE detainers
+- Some Minnesota county jails do not honor/track ICE detainers
 - [Some Minnesota counties have contracts or other agreements with ICE](https://www.startribune.com/is-minnesota-cooperating-with-ice-after-operation-metro-surge/601583745)
-- It’s good to know state and county ICE policies in your area
+- It’s good to know ICE policies in your area
 
 QUESTIONS TO ASK THE DATA
 - How many ICE arrests over time?
